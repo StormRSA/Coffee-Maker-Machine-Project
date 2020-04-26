@@ -8,7 +8,7 @@ while True:
     stored_coffee_beans = int(input("How many grams of coffee beans does the coffee machine have? : "))
     required_coffee = int(input("How many cups of coffee do you need? : "))
 
-    # Calculations :
+    # Calculations:
     cups_of_water = (stored_water // coffee_recipe[0])
     cups_of_milk = (stored_milk // coffee_recipe[1])
     grams_of_beans = (stored_coffee_beans // coffee_recipe[2])
