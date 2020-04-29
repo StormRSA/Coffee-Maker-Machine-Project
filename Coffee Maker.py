@@ -161,7 +161,6 @@ class CoffeeMachine:
 
     # Refill ingredients:
     def machine_refill(self):
-
         self.stored_water += int(input("Write how many ml of water do you want to add: "))
         self.stored_milk += int(input("Write how many ml of milk do you want to add: "))
         self.stored_coffee_beans += int(input("Write how many grams of coffee beans do you want to add: "))
