@@ -1,4 +1,4 @@
-#Coffee-Maker-Machine-Project
+# Coffee-Maker-Machine-Project
 
 An intermediate python project that follows the PEP8 coding style guidelines and utilizes the following python fundamentals:
 1.	PEP 8 coding style.
