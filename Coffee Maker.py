@@ -31,7 +31,6 @@ class CoffeeMachine:
                 print()
                 self.coffee_machine_startup()
             elif user_input == "exit":
-                self.state != "Online"
                 break
 
     # Coffee Machine start up process:
